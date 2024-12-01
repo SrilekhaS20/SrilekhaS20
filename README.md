@@ -21,7 +21,7 @@ I'm a passionate DevOps engineer with over 3 years of experience in designing, i
 - **Cloud Infrastructure:** Proficient in building and maintaining infrastructure on AWS using Terraform and CloudFormation.
 - **Containerization & Orchestration:** Experience with Docker for containerization and Kubernetes for container orchestration.
 - **Automation:** Automating infrastructure and deployments using Ansible and Terraform to ensure seamless scaling and disaster recovery.
-- **Monitoring & Logging:** Implemented monitoring solutions with Prometheus, Grafana, and ELK stack for maintaining system health.
+- **Monitoring & Logging:** Implemented monitoring solutions with Prometheus and Grafana for maintaining system health.
 
 ### 📈 **GitHub Stats**
 ![Srilekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrilekhaS20&show_icons=true&theme=radical)
