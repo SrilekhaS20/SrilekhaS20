@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps Engineer | Cloud Enthusiast 
 
-I'm a passionate DevOps engineer with over 3 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automation processes. I've worked on optimizing e-commerce platforms serving millions of users and managed scalable, high-availability environments using 20+ AWS services.
+I'm a passionate DevOps engineer with over 3.5 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automation processes. I've worked on optimizing e-commerce platforms serving millions of users and managed scalable, high-availability environments using 20+ AWS services.
 
 ### 🛠️ **Technologies & Tools I Use**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
